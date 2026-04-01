@@ -40,7 +40,7 @@ That is it. You are now looking at your fork.
 Look at your browser's address bar. It should show:
 
 ```
-https://github.com/YOUR-USERNAME/techjourney-github
+https://github.com/YOUR-USERNAME/tech-journey-github
 ```
 
 If you see your username there instead of someone else's, you forked successfully.

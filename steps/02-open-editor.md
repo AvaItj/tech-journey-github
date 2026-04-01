@@ -29,15 +29,15 @@ There are two ways to open it:
 
 1. Make sure you are on your forked repository page on GitHub.
 2. Press the **`.` (period)** key on your keyboard.
-3. The page will reload as `github.dev/YOUR-USERNAME/techjourney-github` and the VS Code editor opens.
+3. The page will reload as `github.dev/YOUR-USERNAME/tech-journey-github` and the VS Code editor opens.
 
 ### Option 2: Change the URL manually
 
 In your browser's address bar, change `github.com` to `github.dev` and press Enter:
 
 ```
-Before: https://github.com/YOUR-USERNAME/techjourney-github
-After:  https://github.dev/YOUR-USERNAME/techjourney-github
+Before: https://github.com/YOUR-USERNAME/tech-journey-github
+After:  https://github.dev/YOUR-USERNAME/tech-journey-github
 ```
 
 ---
@@ -65,8 +65,8 @@ To go back to the normal GitHub view at any time, change `github.dev` back to `g
 >
 > Developers who work locally clone the repo to their computer and use a terminal to run git commands. That workflow starts with:
 > ```bash
-> git clone https://github.com/YOUR-USERNAME/techjourney-github.git
-> cd techjourney-github
+> git clone https://github.com/YOUR-USERNAME/tech-journey-github.git
+> cd tech-journey-github
 > ```
 > For this curriculum, we are skipping that — the browser editor does the same thing without any setup.
 

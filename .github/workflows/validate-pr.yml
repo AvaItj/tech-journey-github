@@ -11,7 +11,7 @@ jobs:
     name: "Verify PR is set up correctly"
     runs-on: ubuntu-latest
     # Skip this check on the source/template repo itself
-    if: github.repository != 'OWNER/techjourney-github'
+    if: github.repository != 'buttontate/tech-journey-github'
     steps:
       - uses: actions/checkout@v4
         with:
@@ -65,6 +65,6 @@ jobs:
           echo "  PR validation complete!"
           echo ""
           echo "  Your instructor will review your work."
-          echo "  You have completed the TechJourney"
+          echo "  You have completed the Tech Journey"
           echo "  Git and GitHub curriculum!"
           echo "=========================================="

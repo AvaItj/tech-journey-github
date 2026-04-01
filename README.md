@@ -1,4 +1,4 @@
-# TechJourney: Learn Git and GitHub
+# Tech Journey: Learn Git and GitHub
 
 Git is used by every professional software developer in the world. In this curriculum, you will learn how to use it too — from your first command all the way to opening a real Pull Request on GitHub.
 
@@ -90,8 +90,7 @@ These are the core git concepts you will learn:
 ### Setting Up Your Class Copy
 
 1. Fork or use this repo as a template under your organization.
-2. Update the workflow files: replace `OWNER/techjourney-github` with your actual repo path in the workflow `if:` conditions to prevent workflows from running on your source repo.
-3. Share your repo URL with students and have them fork from yours, not the original.
+2. Share your repo URL with students and have them fork from yours, not the original.
 
 ### Reviewing Student Work
 
@@ -110,4 +109,4 @@ Students will open Pull Requests from `add-about-me` to `main` on their own fork
 
 ---
 
-*Built for the TechJourney STEM program.*
+*Built for the Tech Journey STEM program.*

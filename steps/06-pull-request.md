@@ -74,7 +74,7 @@ Check the **Checks** section at the bottom of your PR page to see the result.
 3. When everything looks good, your instructor will **merge** the PR.
 4. Your `about-me.md` file becomes part of the `main` branch.
 
-**Congratulations — you have completed the TechJourney Git curriculum!**
+**Congratulations — you have completed the Tech Journey Git curriculum!**
 
 ---
 

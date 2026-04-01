@@ -57,7 +57,7 @@ Here is a starter template — paste this in and fill it out:
 
 **Name:** [Your name or a nickname]
 
-**Why I joined TechJourney:**
+**Why I joined Tech Journey:**
 [Write 1-2 sentences]
 
 **Something I am interested in:**

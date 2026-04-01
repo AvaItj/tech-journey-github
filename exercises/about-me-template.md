@@ -20,7 +20,7 @@ Copy the content below into a new file called `about-me.md` in this same folder,
 
 **School or Grade:** [Optional]
 
-**Why I joined TechJourney:**
+**Why I joined Tech Journey:**
 [Write 1-2 sentences about what made you want to join this program]
 
 **Something I am interested in:**

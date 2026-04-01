@@ -10,7 +10,7 @@ jobs:
     name: "Verify branch is named 'add-about-me'"
     runs-on: ubuntu-latest
     # Skip this check on the source/template repo itself
-    if: github.repository != 'OWNER/techjourney-github'
+    if: github.repository != 'buttontate/tech-journey-github'
     steps:
       - name: Check branch name
         run: |

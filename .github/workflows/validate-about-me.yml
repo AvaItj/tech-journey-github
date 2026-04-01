@@ -10,7 +10,7 @@ jobs:
     name: "Check: exercises/about-me.md exists"
     runs-on: ubuntu-latest
     # Skip this check on the source/template repo itself
-    if: github.repository != 'OWNER/techjourney-github'
+    if: github.repository != 'buttontate/tech-journey-github'
     steps:
       - uses: actions/checkout@v4
 
@@ -63,7 +63,7 @@ jobs:
             echo "::error title=Too Short::Your about-me.md has fewer than 3 lines of content."
             echo ""
             echo "Add more content about yourself! Tell us:"
-            echo "  - Why you joined TechJourney"
+            echo "  - Why you joined Tech Journey"
             echo "  - Something you are interested in"
             echo "  - What you hope to learn"
             exit 1
